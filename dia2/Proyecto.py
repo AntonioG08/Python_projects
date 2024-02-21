@@ -1,0 +1,5 @@
+print('Vamos a calcular tus ganancias por comisión, solo necesito lo siguiente: ')
+nombre = input('Ingresa tu nombre: ')
+venta = float(input('Ingresa tus ventas actuales: $'))
+ganancia = round(venta*0.13,2)
+print(f'Tus ganancias actuales {nombre} son de {ganancia}')

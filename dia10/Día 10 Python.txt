@@ -1,0 +1,1 @@
+Trabajaremos con la biblioteca de Pygame, en el curso usan la version 2.2
